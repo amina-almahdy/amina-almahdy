@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @amina-almahdy
 - 👀 I’m interested in Data Amayltics and Data Engineering
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking For a position as data analyst or Power BI developer
+- 📫 How to reach me : aminaalmahdy4@gmail.com
+
 
 <!---
 amina-almahdy/amina-almahdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
